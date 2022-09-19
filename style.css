@@ -475,6 +475,9 @@ section .title::after {
 .services .serv-content .card:hover .box {
   transform: scale(1.05);
 }
+.box > img {
+  width: 300px;
+}
 .services .serv-content .card i {
   font-size: 50px;
   color: crimson;
@@ -677,11 +680,17 @@ footer span a:hover {
     height: 350px;
     width: 350px;
   }
+  .box > img {
+    width: 300px;
+  }
 }
 
 @media (max-width: 991px) {
   .max-width {
     padding: 0 50px;
+  }
+  .box > img {
+    width: 300px;
   }
 }
 @media (max-width: 947px) {

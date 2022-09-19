@@ -681,7 +681,7 @@ footer span a:hover {
     width: 350px;
   }
   .box > img {
-    width: 300px;
+    width: 200px;
   }
 }
 
@@ -690,7 +690,7 @@ footer span a:hover {
     padding: 0 50px;
   }
   .box > img {
-    width: 300px;
+    width: 200px;
   }
 }
 @media (max-width: 947px) {

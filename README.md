@@ -18,14 +18,6 @@ wow-user experience through them.
 ##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux
 
 
-
-
-
-
-
-
-
-
 # 💫 About Me:
 - 🌱 I'm currently learning Full-stack Web Development from Masai School Bangalore.<br>
 - 🔭 Good in **JAVA**<br>
@@ -57,5 +49,5 @@ wow-user experience through them.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasaddabbe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=saiprasaddabbe&icon=2&color=3)](https://visitcount.itsvg.in)
